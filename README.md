@@ -1,2 +1,1 @@
-# tg Tom
 # Hello World !
